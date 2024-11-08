@@ -14,4 +14,7 @@ Index:
 - CERT SCRAPER (cert_scraper.py)
   Program that finds subdomains for a given domain on the website cert.sh and saves them to an Excel file.
   
-- 
+- VULNERABILITY SCANNER (vulnerability_scanner.py)
+  Program that checks if any of the 1000 top ports is vulnerable.
+  
+-  
