@@ -17,4 +17,6 @@ Index:
 - VULNERABILITY SCANNER (vulnerability_scanner.py)
   Program that checks if any of the 1000 top ports is vulnerable.
   
--  
+-  VIRUSTOTAL IP SCANNER (VirusTotal_IP_scanner.py)
+  Script that takes a bulk of IP addresses from an Excel file (.xlsx) and checks on VirusTotal if they're malicious.
+  To perform a scan your API key is needed.
